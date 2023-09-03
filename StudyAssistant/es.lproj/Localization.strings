@@ -1,0 +1,128 @@
+//Botones
+"Continue" = "Continuar";
+
+"Save" = "Guardar";
+"Cancel" = "Cancelar";
+"Edit" = "Editar";
+"Delete professor" = "Eliminar profesor";
+"Delete event" = "Eliminar evento";
+"OK" = "OK";
+"Done" = "Hecho";
+"Keywords" = "Etiquetas";
+"Connections" = "Conexiones";
+"Connect" = "Conectar";
+
+"Add lesson" = "Añadir tema";
+"Edit subject" = "Editar asignatura";
+"Delete subject" = "Eliminar asignatura";
+"Import PDF" = "Importar PDF";
+"Import photo" = "Importar imagen";
+"Take photo" = "Tomar imagen";
+"Edit note" = "Editar apunte";
+"Share note" = "Compartir apunte";
+"Delete note" = "Eliminar apunte";
+
+
+//Alerts
+"New title" = "Nuevo título";
+"Set a new title for this lesson" = "Introduce un nuevo título para este tema";
+"Duplicate lesson" = "Tema ducplicado";
+"The lesson already exists in this subject. Please provide a different title." = "Este tema ya existe en la asignatura. Por favor introduce un título diferente.";
+"New image" = "Nueva imagen";
+"Enter a title for the image" = "Introduce un título para la imagen";
+"Image 01" = "Imagen";
+"New file" = "Nuevo archivo";
+"Enter a title for the file" = "Introduce un título para el archivo";
+"File 01" = "Archivo";
+"Duplicate keyword" = "Etiqueta duplicada";
+"This keyword is already in your note" = "La etiqueta ya se encuentra en tu apunte";
+"New keyword" = "Nueva etiqueta";
+"The keyword was successfully added." = "La etiqueta ha sido añadida satisfactoriamente.";
+"Duplicate connection" = "Conexión duplicada";
+"This connection already exists" = "Esta conexión ya existe";
+"New connection" = "Nueva conexión";
+"Do you want to connect this note?" = "¿Quieres conectar este apunte?";
+"Not empty subject" = "Asignatura no vacía";
+"In order to delete an entire subject it has to be empty. Please delete its lessons first." = "Para eliminar una asignatura completa esta tiene que estar vacía. Por favor elimina sus temas antes.";
+"New title" = "Nuevo título";
+"Set a new title for this note" = "Introduce un nuevo título para este apunte";
+
+//Asignaturas
+"Add subject" = "Añadir asignatura";
+"Edit subject" = "Editar asignatura";
+"Subjects" = "Asignaturas";
+"New title" = "Nuevo tema";
+"Set a new title for this lesson" = "Introduce un nuevo título para este tema";
+"Lesson's title" = "Título del tema";
+"New lesson" = "Nuevo tema";
+"Set a title for the new lesson" = "Introduce un título para este tema";
+"Title" = "Título";
+"Not empty subject" = "Asignatura sin vaciar";
+"In order to delete an entire subject it has to be empty. Please delete its lessons first." = "Para eliminar una asignatura completa esta tiene que estar vacía. Por favor elimina primero sus temas.";
+"Add lesson" = "Añadir tema";
+"Edit subject" = "Editar asignatura";
+"Delete subject" = "Eliminar asignatura";
+"Color preview" = "Previsualización del color";
+"Pick a color" = "Selecciona un color";
+
+//Apuntes
+"Import PDF" = "Importar PDF";
+"Import photo" = "Importar foto";
+"Take photo" = "Tomar foto";
+"Set a new title for this note" = "Introduce un nuevo título para este apunte";
+"Note's title" = "Título del apunte";
+"New image" = "Nueva imagen";
+"Enter a title for the image" = "Introduce un título para la imagen";
+"Image 01" = "Imagen 01";
+"New file" = "Nuevo archivo";
+"Enter a title for the file" = "Introduce un título para el archivo";
+"File 01" = "Archivo 01";
+"Edit note" = "Editar apunte";
+"Share note" = "Compartir apunte";
+"Delete note" = "Eliminar apunte";
+"Duplicated keyword" = "Etiqueta duplicada";
+"This keyword is already in your note" = "Esta etiqueta ya se encuentra en tu apunte";
+"New keyword" = "Nueva etiqueta";
+"The keyword" = "La etiqueta";
+"was successfully added." = "se añadió correctamente";
+"Duplicate connection" = "Conexión duplicada";
+"This connection already exists" = "Esta conexión ya existe";
+"New connection" = "Nueva conexión";
+"Do you want to connect this note?" = "¿Quieres conectar este apunte?";
+"Add keyword" = "Añadir etiqueta";
+"Keyword" = "Etiqueta";
+"NEW KEYWORD" = "NUEVA ETIQUETA";
+"YOUR KEYWORDS" = "TUS ETIQUETAS";
+"Keywords" = "Etiquetas";
+
+//Profesores
+"Professors" = "Profesores";
+"Add professor" = "Añadir profesor";
+"New professor" = "Nuevo profesor";
+"Office" = "Despacho";
+"Name" = "Nombre";
+"Email" = "Correo";
+"Edit professor" = "Editar profesor";
+"New profile image" = "Nueva imagen de perfil";
+"Test Subject" = "Asunto de prueba";
+"Message generated from Study Assistant" = "Mensaje generado desde Study Assistant";
+"You have an event" = "Tienes un evento";
+
+//Eventos
+"Events" = "Eventos";
+"Add event" = "Añadir evento";
+"Location" = "Ubicación";
+"You have an event" = "Tienes un evento";
+"Start date" = "Fecha de inicio";
+"Start time" = "Hora de inicio";
+"End date" = "Fecha de fin";
+"End time" = "Hora de fin";
+"Date of reminder" = "Fecha del recordatorio";
+"Time of reminder" = "Hora del recordatorio";
+"MMMM dd yyyy" = "dd MMMM yyyy";
+"Reminder" = "Recordatorio";
+"Edit event" = "Editar evento";
+"Delete event" = "Eliminar evento";
+"New event" = "Nuevo evento";
+"Schedule reminder" = "Programar recordatorio";
+
