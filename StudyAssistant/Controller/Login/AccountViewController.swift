@@ -1,8 +1,7 @@
 //
-//  AccountViewController.swift
-//  StudyAssistant
+//  Created by Carmen Alonso
 //
-//  Created by Carmen Alonso on 7/8/23.
+// Do not use or distribute without authorization
 //
 
 import UIKit
