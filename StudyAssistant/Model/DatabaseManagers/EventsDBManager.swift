@@ -10,7 +10,6 @@ import FirebaseStorage
 
 protocol EventsDBManagerLoad {
     func didLoadEvents(databaseManager: EventsDBManager, data: [Event])
-    //func didFailWithError(error: Error)
 }
 
 protocol EventsDBManagerDetail {
