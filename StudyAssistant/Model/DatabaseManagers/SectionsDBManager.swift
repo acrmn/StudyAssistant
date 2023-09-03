@@ -1,8 +1,7 @@
 //
-//  SectionsDBManager.swift
-//  StudyAssistant
+//  Created by Carmen Alonso
 //
-//  Created by Carmen Alonso on 4/8/23.
+// Do not use or distribute without authorization
 //
 
 import Foundation
@@ -13,8 +12,6 @@ import FirebaseStorage
 protocol SectionsDBManagerLoad {
     func didLoadSubjects(databaseManager: SectionsDBManager, data: [Subject])
     func didLoadLessonsArray(databaseManager: SectionsDBManager, data: Subject)
-//    func didDeleteLesson(databaseManager: SectionsDBManager)
-    //func didFailWithError(error: Error)
 }
 
 protocol SectionsDBManagerDetail {
@@ -186,7 +183,7 @@ struct SectionsDBManager {
                       }
                     }
                 }
-            } // for idNote in notesToDelete
+            }
             
             //MARK: Se elimina el tema de base de datos
             db.collection(Constants.collectionUsers).document(UserHelper.getUserEmail()).collection(Constants.collectionSubjects).document(idSubject).collection(Constants.collectionLessons).document(idLesson).delete()
@@ -196,9 +193,7 @@ struct SectionsDBManager {
             //MARK: Se actualiza el "MapLessons" de base de datos
             db.collection(Constants.collectionUsers).document(UserHelper.getUserEmail()).collection(Constants.collectionSubjects).document(idSubject).updateData([Constants.fieldSubjectMapLessons+"."+titleLesson:FieldValue.delete()])
             
-        } // groupRetrieveNotes.notify(queue: .main)
-        
-//        subjectsLoadDelegate?.didDeleteLesson(databaseManager: self)
+        }
     }
     
     func addLesson(idSubject: String, titleLesson: String) -> String {
