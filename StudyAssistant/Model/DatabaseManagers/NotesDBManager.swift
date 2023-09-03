@@ -11,8 +11,6 @@ import FirebaseStorage
 protocol NotesDBManagerLoad {
     func didLoadNotes(databaseManager: NotesDBManager, data: [Note])
     func didAddNote(databaseManager: NotesDBManager, document: DocumentSnapshot)
-    
-    //func didFailWithError(error: Error)
 }
 
 protocol KeywordsDBManagerLoad {
