@@ -10,7 +10,6 @@ import FirebaseStorage
 
 protocol ProfessorsDBManagerLoad {
     func didLoadProfessors(databaseManager: ProfessorsDBManager, data: [Professor])
-    //func didFailWithError(error: Error)
 }
 
 protocol ProfessorsDBManagerDetail {
